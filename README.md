@@ -8,4 +8,5 @@ volunteers should be able to identify the top 10 bacterial species in their bell
 
 The snapshot of the webpage is the following:
 
-![Screen Shot 2022-08-23 at 11 53 26 PM](https://user-images.githubusercontent.com/65901034/186325101-c7aa9393-d12e-46c7-ac8d-5cb39e11a99c.png)
+
+<img width="669" alt="Screen Shot 2022-08-24 at 2 56 38 PM" src="https://user-images.githubusercontent.com/65901034/186501387-ff77050c-6ba8-4e92-8e14-26d6104f5cd6.png">
