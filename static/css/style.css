@@ -1,6 +1,6 @@
 .jumbotron {
-
-  color: #0000FF;
+  background-image: url("../image/bacteria.jpg");
+  color: hsl(101, 100%, 50%);
 }
 body {background-color: coral;}
 
