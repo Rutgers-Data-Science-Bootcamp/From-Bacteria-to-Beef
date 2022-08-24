@@ -1,7 +1,7 @@
 // Create the buildChart function.
 function buildCharts(sample) {
   // Use d3.json to load the samples.json file 
-  d3.json("samples.json").then((data) => {
+  d3.json("./resources/samples.json").then((data) => {
     console.log(data);
 
     // Create a variable that holds the samples array. 
